@@ -1,0 +1,11 @@
+# Site settings
+url: http://availableimagination.com
+title: Available Imagination
+description: Thoughts and notes
+author: Donovan Hide
+twitter_username: donovanhide
+github_username:  donovanhide
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
