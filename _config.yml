@@ -6,6 +6,8 @@ author: Donovan Hide
 twitter_username: donovanhide
 github_username:  donovanhide
 
+permalink: /:title/
+
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
